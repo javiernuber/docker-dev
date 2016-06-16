@@ -1,2 +1,4 @@
-/mysql/*
 /src/*
+/mysql/data/*
+/web/conf/*
+.DS_Store
