@@ -14,7 +14,7 @@ services:
             - "80:80"
             - "443:443"
         volumes:
-            - ./src:/var/www
+            - ./src:/var/www/html
             - ./web/conf:/etc/apache2/sites-enabled
         links:
             - db
