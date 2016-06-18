@@ -1,8 +1,9 @@
 Docker DEV
 =====================
 
-Entorno de desarrollo para proyectos PHP usando dos contenedores, uno con MYSQL y otro con Apache y PHP.
+Este proyecto es pera levantar un entorno de desarrollo para proyectos PHP
 
+Contendor WEB
 - Apache 2.4
 - PHP 5.6
 - Composer
@@ -10,6 +11,8 @@ Entorno de desarrollo para proyectos PHP usando dos contenedores, uno con MYSQL 
 - Drupal Console
 - Symfony Instaler
 
+Contenedor MYSQL
+- Mysql 5.6
 
 Instalación
 -----------------------------
